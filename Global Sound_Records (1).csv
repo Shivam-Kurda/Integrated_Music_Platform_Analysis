@@ -1,0 +1,651 @@
+Song_Name,Play_Date,User_DOB,User_Gender,User_Location,Song_Artist,Song_Genre,Song_Platform,Play_ID
+Hotel California,11-11-2023,10-09-1979,M,Pune,Whitney Houston,Jazz,spotify,3
+Hotel California,11-11-2023,14-10-1999,F,Delhi,Whitney Houston,Electronic,spotify,88
+Hotel California,11-11-2023,13-02-1979,M,Mumbai,Whitney Houston,Electronic,spotify,162
+Hotel California,11-11-2023,05-01-1976,M,Delhi,Whitney Houston,Electronic,spotify,191
+Purple Haze,11-11-2023,02-03-1982,M,Chennai,Katy Perry,Rock,spotify,26
+Purple Haze,11-11-2023,28-01-2005,M,Kanpur,Katy Perry,Rock,spotify,79
+Stand by Me,11-11-2023,28-12-1964,F,Kanpur,Freddie Mercury,Pop,spotify,18
+Stand by Me,11-11-2023,17-01-1995,M,Nagpur,Freddie Mercury,Pop,spotify,21
+Stand by Me,11-11-2023,05-04-1971,F,Surat,Freddie Mercury,Hip Hop,spotify,142
+Stand by Me,11-11-2023,27-06-1970,F,Thane,Freddie Mercury,Rock,spotify,155
+I Want to Hold Your Hand,11-11-2023,29-07-2005,F,Lucknow,Billie Eilish,Hip Hop,spotify,11
+I Want to Hold Your Hand,11-11-2023,18-09-1975,F,Lucknow,Billie Eilish,Rock,spotify,159
+I Want to Hold Your Hand,11-11-2023,25-11-1962,F,Chennai,Billie Eilish,Hip Hop,spotify,160
+Shape of You,11-11-2023,27-09-1986,F,Jaipur,Frank Sinatra,Classical,spotify,127
+Shape of You,11-11-2023,10-09-1960,F,Delhi,Frank Sinatra,Classical,spotify,144
+Shape of You,11-11-2023,04-03-1976,F,Kanpur,Frank Sinatra,Hip Hop,spotify,167
+Despacito,11-11-2023,11-11-1980,M,Ahmedabad,Rihanna,Jazz,spotify,101
+Despacito,11-11-2023,11-11-1974,F,Bangalore,Rihanna,Jazz,spotify,148
+Thinking Out Loud,11-11-2023,20-12-1979,F,Kolkata,Celine Dion,Hip Hop,spotify,125
+Thinking Out Loud,11-11-2023,12-06-1966,M,Lucknow,Celine Dion,Classical,spotify,170
+Boys Dont Cry,11-11-2023,24-05-1990,M,Indore,Taylor Swift,Rock,spotify,70
+Boys Dont Cry,11-11-2023,18-08-1986,F,Mumbai,Taylor Swift,Electronic,spotify,147
+My Girl,11-11-2023,02-04-1974,F,Indore,Rihanna,Pop,spotify,52
+My Girl,11-11-2023,26-03-1962,M,Chennai,Rihanna,Classical,spotify,102
+My Girl,11-11-2023,09-09-1977,M,Chennai,Rihanna,Jazz,spotify,137
+Johnny B. Goode,11-11-2023,03-05-1975,F,Hyderabad,Whitney Houston,Hip Hop,spotify,73
+Johnny B. Goode,11-11-2023,27-04-1979,F,Hyderabad,Whitney Houston,Jazz,spotify,164
+Kal Ho Naa Ho,11-11-2023,24-08-1978,M,Ahmedabad,Taylor Swift,Rock,spotify,90
+Jeene Laga Hoon,11-11-2023,06-04-2003,M,Jaipur,Freddie Mercury,Electronic,spotify,54
+Jeene Laga Hoon,11-11-2023,06-03-1971,F,Delhi,Freddie Mercury,Classical,spotify,96
+Jeene Laga Hoon,11-11-2023,27-03-1987,M,Lucknow,Freddie Mercury,Jazz,spotify,132
+Jeene Laga Hoon,11-11-2023,29-07-1997,M,Mumbai,Freddie Mercury,Electronic,spotify,186
+Tera Ban Jaunga,11-11-2023,24-02-1989,M,Hyderabad,Adele,Hip Hop,spotify,20
+Tera Ban Jaunga,11-11-2023,16-12-1982,M,Delhi,Adele,Pop,spotify,74
+Tera Ban Jaunga,11-11-2023,03-06-1993,F,Lucknow,Adele,Rock,spotify,122
+Tera Ban Jaunga,11-11-2023,15-03-2002,M,Indore,Adele,Electronic,spotify,157
+Tera Ban Jaunga,11-11-2023,13-09-1969,F,Bangalore,Adele,Jazz,spotify,161
+Pee Loon,11-11-2023,18-02-2002,F,Hyderabad,Lady Gaga,Hip Hop,spotify,86
+Pee Loon,11-11-2023,24-12-1960,M,Nagpur,Lady Gaga,Classical,spotify,120
+Tum Se Hi,11-11-2023,08-10-1997,M,Delhi,Beyonce,Hip Hop,spotify,153
+Agar Tum Saath Ho,11-11-2023,13-05-2001,F,Ahmedabad,Bruno Mars,Rock,spotify,51
+Agar Tum Saath Ho,11-11-2023,28-01-1984,M,Mumbai,Bruno Mars,Rock,spotify,177
+Ae Mere Humsafar,11-11-2023,05-03-1958,M,Jaipur,Michael Jackson,Jazz,spotify,7
+Ae Mere Humsafar,11-11-2023,05-09-1988,M,Pune,Michael Jackson,Electronic,spotify,36
+Ae Mere Humsafar,11-11-2023,24-04-1977,M,Mumbai,Michael Jackson,Classical,spotify,40
+Ae Mere Humsafar,11-11-2023,16-09-1988,F,Hyderabad,Michael Jackson,Electronic,spotify,168
+Ae Mere Humsafar,11-11-2023,30-05-1997,F,Kolkata,Michael Jackson,Pop,spotify,169
+Ae Mere Humsafar,11-11-2023,08-09-1978,M,Thane,Michael Jackson,Electronic,spotify,187
+Jeene Laga Hoon,11-11-2023,29-11-1984,F,Delhi,Bruno Mars,Classical,spotify,77
+Tum Mile,11-11-2023,20-01-1961,M,Kanpur,Bob Marley,Classical,spotify,44
+Tum Jo Aaye,11-11-2023,18-03-1997,F,Bangalore,Mariah Carey,Hip Hop,spotify,66
+Lag Ja Gale,11-11-2023,07-12-1972,F,Kanpur,Bob Marley,Pop,spotify,22
+Lag Ja Gale,11-11-2023,20-10-1996,M,Pune,Bob Marley,Electronic,spotify,81
+Jeene Laga Hoon,11-11-2023,19-08-1970,F,Thane,Ariana Grande,Electronic,spotify,32
+Jeene Laga Hoon,11-11-2023,21-03-1998,M,Ahmedabad,Ariana Grande,Pop,spotify,85
+Jeene Laga Hoon,11-11-2023,01-10-1988,M,Indore,Ariana Grande,Electronic,spotify,128
+Agar Tum Saath Ho,11-11-2023,13-12-1982,M,Thane,Bob Marley,Jazz,spotify,58
+Agar Tum Saath Ho,11-11-2023,19-05-1981,F,Chennai,Bob Marley,Electronic,spotify,117
+Agar Tum Saath Ho,11-11-2023,15-07-1973,M,Chennai,Bob Marley,Hip Hop,spotify,179
+Bohemian Rhapsody,11-11-2023,01-01-1979,F,Indore,Bruno Mars,Electronic,spotify,35
+Imagine,12-11-2023,19-08-1970,F,Surat,Ariana Grande,Electronic,spotify,78
+Like a Rolling Stone,12-11-2023,06-05-1959,M,Hyderabad,Celine Dion,Electronic,spotify,182
+Billie Jean,12-11-2023,02-04-1993,M,Nagpur,Billie Eilish,Rock,spotify,189
+Sweet Child o Mine,12-11-2023,04-05-1966,F,Delhi,Lady Gaga,Hip Hop,spotify,10
+Hey Jude,12-11-2023,04-11-1982,F,Lucknow,Elvis Presley,Classical,spotify,103
+Hey Jude,12-11-2023,01-07-1982,M,Hyderabad,Elvis Presley,Classical,spotify,107
+Smells Like Teen Spirit,12-11-2023,20-10-1958,F,Pune,Shawn Mendes,Jazz,spotify,98
+Smells Like Teen Spirit,12-11-2023,13-07-1983,F,Mumbai,Shawn Mendes,Jazz,spotify,118
+Hello,12-11-2023,26-04-1998,M,Indore,Ariana Grande,Pop,spotify,34
+Hello,12-11-2023,05-11-1972,F,Kolkata,Ariana Grande,Rock,spotify,112
+Hello,12-11-2023,26-11-1985,M,Nagpur,Ariana Grande,Classical,spotify,172
+Uptown Funk,12-11-2023,28-08-1971,F,Delhi,Bruno Mars,Classical,spotify,133
+Smooth Criminal,12-11-2023,16-06-1998,F,Kanpur,Mariah Carey,Pop,spotify,100
+Smooth Criminal,12-11-2023,07-10-1992,M,Delhi,Mariah Carey,Rock,spotify,108
+Smooth Criminal,12-11-2023,09-06-2001,M,Surat,Mariah Carey,Classical,spotify,178
+Hotel California,12-11-2023,22-04-1966,F,Ahmedabad,Rihanna,Electronic,spotify,43
+Hotel California,12-11-2023,16-10-1985,F,Jaipur,Rihanna,Classical,spotify,56
+Hotel California,12-11-2023,06-02-1985,F,Bangalore,Rihanna,Hip Hop,spotify,135
+Imagine,12-11-2023,25-01-1974,F,Nagpur,Frank Sinatra,Hip Hop,spotify,45
+Imagine,12-11-2023,05-02-1969,F,Kolkata,Frank Sinatra,Electronic,spotify,163
+Imagine,12-11-2023,24-08-2001,M,Delhi,Frank Sinatra,Classical,spotify,183
+Like a Rolling Stone,12-11-2023,30-01-1980,M,Surat,Frank Sinatra,Pop,spotify,61
+Like a Rolling Stone,12-11-2023,02-06-1974,F,Nagpur,Frank Sinatra,Pop,spotify,123
+Like a Rolling Stone,12-11-2023,02-05-1994,M,Chennai,Frank Sinatra,Jazz,spotify,200
+Hey Jude,12-11-2023,15-06-2003,F,Kanpur,David Bowie,Pop,spotify,49
+Smells Like Teen Spirit,12-11-2023,07-10-1992,M,Nagpur,Katy Perry,Electronic,spotify,93
+Smells Like Teen Spirit,12-11-2023,07-03-1981,F,Lucknow,Katy Perry,Jazz,spotify,173
+Blackbird,12-11-2023,05-09-1988,M,Surat,Adele,Classical,spotify,68
+Blackbird,12-11-2023,20-10-1958,F,Thane,Adele,Pop,spotify,71
+Blackbird,12-11-2023,16-04-1980,M,Kanpur,Adele,Pop,spotify,72
+Stand by Me,12-11-2023,25-10-1996,F,Delhi,David Bowie,Hip Hop,spotify,25
+Stand by Me,12-11-2023,09-07-1999,M,Hyderabad,David Bowie,Jazz,spotify,37
+Stand by Me,12-11-2023,23-06-1992,M,Jaipur,David Bowie,Electronic,spotify,181
+All You Need Is Love,12-11-2023,18-02-1996,F,Surat,John Lennon,Classical,spotify,39
+All You Need Is Love,12-11-2023,03-07-1959,M,Nagpur,John Lennon,Hip Hop,spotify,131
+I Want to Hold Your Hand,12-11-2023,05-09-1982,F,Lucknow,Bob Marley,Rock,spotify,53
+I Want to Hold Your Hand,12-11-2023,04-02-2005,F,Surat,Bob Marley,Classical,spotify,129
+Mere Sapno Ki Rani Kab Aayegi Tu,12-11-2023,17-01-1973,F,Bangalore,Elvis Presley,Hip Hop,spotify,82
+Mere Sapno Ki Rani Kab Aayegi Tu,12-11-2023,27-03-1967,F,Kanpur,Elvis Presley,Electronic,spotify,83
+Tum Mile,12-11-2023,20-09-1963,F,Delhi,Elvis Presley,Electronic,spotify,55
+Tum Mile,12-11-2023,01-02-1981,M,Kolkata,Elvis Presley,Jazz,spotify,94
+Tum Mile,12-11-2023,13-11-1959,F,Chennai,Elvis Presley,Pop,spotify,126
+Channa Mereya,12-11-2023,02-12-1960,F,Surat,Taylor Swift,Rock,spotify,130
+Tum Mile,12-11-2023,02-05-1994,M,Indore,Elvis Presley,Electronic,spotify,95
+Tum Mile,12-11-2023,08-07-1963,F,Bangalore,Elvis Presley,Electronic,spotify,109
+Janam Janam,12-11-2023,01-08-1960,M,Chennai,Celine Dion,Pop,spotify,141
+Janam Janam,12-11-2023,16-04-1994,F,Hyderabad,Celine Dion,Hip Hop,spotify,145
+Tum Jo Aaye,12-11-2023,02-04-1993,M,Surat,Bruno Mars,Rock,spotify,16
+Ishq Di Baajiyaan,12-11-2023,17-06-1974,M,Ahmedabad,Bob Marley,Classical,spotify,27
+Ishq Di Baajiyaan,12-11-2023,16-05-1984,F,Bangalore,Bob Marley,Rock,spotify,97
+Ishq Di Baajiyaan,12-11-2023,04-01-1990,M,Indore,Bob Marley,Pop,spotify,99
+Chhod Diya,12-11-2023,24-04-1981,M,Nagpur,Celine Dion,Electronic,spotify,106
+Bol Do Na Zara,12-11-2023,18-12-1977,F,Delhi,Lady Gaga,Jazz,spotify,24
+Bol Do Na Zara,12-11-2023,27-09-1963,M,Pune,Lady Gaga,Pop,spotify,121
+Pee Loon,12-11-2023,18-03-1985,M,Lucknow,Adele,Hip Hop,spotify,23
+Pee Loon,13-11-2023,29-11-1973,M,Nagpur,Adele,Pop,spotify,59
+Pee Loon,13-11-2023,09-06-2001,M,Nagpur,Adele,Rock,spotify,188
+Tum Jo Aaye,13-11-2023,04-03-1991,M,Pune,Shawn Mendes,Pop,spotify,69
+Tum Jo Aaye,13-11-2023,02-12-1960,F,Indore,Shawn Mendes,Classical,spotify,75
+Gerua,13-11-2023,29-07-1997,M,Hyderabad,Rihanna,Classical,spotify,119
+Gerua,13-11-2023,14-06-1998,F,Delhi,Rihanna,Rock,spotify,174
+Gerua,13-11-2023,30-04-1960,M,Ahmedabad,Rihanna,Electronic,spotify,194
+Tum Mile,13-11-2023,01-11-1970,F,Nagpur,Prince,Hip Hop,spotify,6
+Tum Mile,13-11-2023,02-07-1965,F,Mumbai,Prince,Electronic,spotify,84
+Tum Mile,13-11-2023,12-02-1978,F,Kolkata,Prince,Electronic,spotify,152
+Tum Mile,13-11-2023,10-05-1998,M,Hyderabad,Prince,Jazz,spotify,156
+Tum Mile,13-11-2023,24-07-1988,F,Nagpur,Prince,Rock,spotify,192
+Tum Hi Ho,13-11-2023,01-07-1982,M,Indore,Freddie Mercury,Electronic,spotify,104
+Tum Hi Ho,13-11-2023,15-07-1959,M,Thane,Freddie Mercury,Hip Hop,spotify,115
+Chaiyya Chaiyya,13-11-2023,12-04-2001,F,Nagpur,Ed Sheeran,Pop,spotify,165
+Mera Naam Chin Chin Chu,13-11-2023,02-02-1977,M,Thane,Billie Eilish,Hip Hop,spotify,46
+Mera Naam Chin Chin Chu,13-11-2023,24-09-2004,M,Hyderabad,Billie Eilish,Rock,spotify,124
+Tum Mile,13-11-2023,13-02-1979,M,Ahmedabad,Adele,Rock,spotify,63
+Yesterday,13-11-2023,29-04-1971,M,Indore,Drake,Rock,spotify,185
+Let It Be,13-11-2023,05-08-1999,F,Kanpur,Adele,Hip Hop,spotify,50
+Let It Be,13-11-2023,18-04-1982,F,Ahmedabad,Adele,Electronic,spotify,57
+Let It Be,13-11-2023,21-09-1994,F,Pune,Adele,Rock,spotify,111
+Stairway to Heaven,13-11-2023,12-03-1979,F,Ahmedabad,Adele,Pop,spotify,139
+Boys Dont Cry,13-11-2023,19-08-1973,F,Chennai,Ed Sheeran,Hip Hop,spotify,114
+Boys Dont Cry,13-11-2023,31-07-2001,M,Surat,Ed Sheeran,Hip Hop,spotify,149
+Boys Dont Cry,13-11-2023,27-03-1987,M,Hyderabad,Ed Sheeran,Electronic,spotify,151
+All You Need Is Love,13-11-2023,27-04-1979,F,Delhi,Prince,Rock,spotify,42
+Every Breath You Take,13-11-2023,03-10-1988,M,Kanpur,Eminem,Hip Hop,spotify,38
+Johnny B. Goode,13-11-2023,01-07-1977,F,Thane,Lady Gaga,Rock,spotify,105
+Johnny B. Goode,13-11-2023,23-09-1996,M,Kolkata,Lady Gaga,Jazz,spotify,116
+Cant Stop the Feeling!,13-11-2023,22-07-1979,M,Lucknow,Billie Eilish,Electronic,spotify,60
+Cant Stop the Feeling!,13-11-2023,22-09-1987,M,Nagpur,Billie Eilish,Rock,spotify,190
+Cant Stop the Feeling!,13-11-2023,08-08-1992,F,Chennai,Billie Eilish,Classical,spotify,199
+Bohemian Rhapsody,13-11-2023,04-06-1991,M,Kolkata,Prince,Jazz,spotify,15
+Bohemian Rhapsody,13-11-2023,26-03-1998,M,Kolkata,Prince,Jazz,spotify,180
+Yesterday,13-11-2023,23-09-1996,M,Kanpur,Prince,Electronic,spotify,8
+Let It Be,13-11-2023,15-04-1988,F,Kolkata,Justin Bieber,Jazz,spotify,14
+Purple Haze,13-11-2023,05-03-1958,M,Thane,Katy Perry,Jazz,spotify,76
+Purple Haze,13-11-2023,06-10-1989,M,Kanpur,Katy Perry,Pop,spotify,195
+Wonderwall,13-11-2023,13-06-1999,F,Chennai,Whitney Houston,Rock,spotify,136
+Sweet Child o Mine,13-11-2023,23-03-1992,F,Ahmedabad,Justin Bieber,Classical,spotify,47
+Sweet Child o Mine,13-11-2023,20-05-1983,M,Bangalore,Justin Bieber,Jazz,spotify,80
+Brown Eyed Girl,13-11-2023,10-09-1960,F,Bangalore,Shawn Mendes,Pop,spotify,33
+Brown Eyed Girl,13-11-2023,23-10-1967,M,Nagpur,Shawn Mendes,Hip Hop,spotify,41
+Brown Eyed Girl,13-11-2023,11-11-1974,F,Indore,Shawn Mendes,Hip Hop,spotify,146
+Every Breath You Take,13-11-2023,16-01-1965,M,Mumbai,Shawn Mendes,Rock,spotify,62
+Tum Jo Aaye,13-11-2023,25-01-1974,F,Kanpur,Shawn Mendes,Pop,spotify,9
+Tum Jo Aaye,13-11-2023,30-01-1973,F,Mumbai,Shawn Mendes,Classical,spotify,113
+Tum Jo Aaye,13-11-2023,24-09-1982,F,Lucknow,Shawn Mendes,Rock,spotify,140
+Tum Jo Aaye,13-11-2023,17-05-2003,F,Nagpur,Shawn Mendes,Pop,spotify,143
+Tum Jo Aaye,13-11-2023,08-05-1987,F,Lucknow,Shawn Mendes,Jazz,spotify,175
+Gerua,13-11-2023,26-06-1973,F,Surat,Shawn Mendes,Electronic,spotify,19
+Gerua,13-11-2023,28-02-1976,F,Pune,Shawn Mendes,Pop,spotify,29
+Gerua,13-11-2023,16-12-1982,M,Indore,Shawn Mendes,Pop,spotify,184
+Lag Ja Gale,13-11-2023,22-03-1973,F,Indore,Frank Sinatra,Hip Hop,spotify,30
+Lag Ja Gale,13-11-2023,14-10-1969,M,Thane,Frank Sinatra,Rock,spotify,176
+Lag Ja Gale,13-11-2023,12-03-1979,F,Hyderabad,Frank Sinatra,Pop,spotify,197
+Nashe Si Chadh Gayi,13-11-2023,22-12-1991,M,Kanpur,Taylor Swift,Electronic,spotify,5
+Nashe Si Chadh Gayi,13-11-2023,27-12-1970,M,Surat,Taylor Swift,Pop,spotify,12
+Nashe Si Chadh Gayi,13-11-2023,09-01-1975,M,Nagpur,Taylor Swift,Classical,spotify,28
+Nashe Si Chadh Gayi,13-11-2023,08-01-1972,F,Kolkata,Taylor Swift,Pop,spotify,91
+Nashe Si Chadh Gayi,13-11-2023,18-01-1972,F,Pune,Taylor Swift,Jazz,spotify,166
+Nashe Si Chadh Gayi,13-11-2023,26-05-1965,M,Chennai,Taylor Swift,Pop,spotify,193
+Ae Mere Humsafar,13-11-2023,10-12-1995,F,Delhi,Shawn Mendes,Classical,spotify,13
+Ae Mere Humsafar,13-11-2023,24-06-2000,F,Bangalore,Shawn Mendes,Jazz,spotify,65
+Ae Mere Humsafar,13-11-2023,12-01-1970,M,Nagpur,Shawn Mendes,Pop,spotify,158
+Raabta,13-11-2023,06-11-1959,F,Jaipur,John Lennon,Jazz,spotify,17
+Raabta,13-11-2023,01-08-1960,M,Delhi,John Lennon,Electronic,spotify,138
+Sun Saathiya,13-11-2023,09-06-1999,F,Surat,Drake,Classical,spotify,64
+Sun Saathiya,13-11-2023,23-08-1998,F,Kolkata,Drake,Rock,spotify,87
+Sun Saathiya,14-11-2023,19-11-1972,M,Pune,Drake,Jazz,spotify,154
+Bolna,14-11-2023,26-03-1962,M,Nagpur,Michael Jackson,Jazz,spotify,67
+Tum Mile,14-11-2023,22-07-1979,M,Lucknow,John Lennon,Rock,spotify,31
+Tum Mile,14-11-2023,24-12-1962,M,Thane,John Lennon,Rock,spotify,89
+Tum Mile,14-11-2023,04-02-1971,F,Thane,John Lennon,Classical,spotify,92
+Tum Mile,14-11-2023,05-02-1969,F,Pune,John Lennon,Jazz,spotify,110
+Tum Mile,14-11-2023,11-02-2004,M,Lucknow,John Lennon,Jazz,spotify,150
+Janam Janam,14-11-2023,05-11-1990,F,Pune,Celine Dion,Rock,spotify,134
+Janam Janam,14-11-2023,04-03-1972,M,Hyderabad,Celine Dion,Rock,spotify,198
+Channa Mereya,14-11-2023,23-02-1973,F,Jaipur,Celine Dion,Hip Hop,spotify,48
+Channa Mereya,14-11-2023,22-12-1991,F,Ahmedabad,Celine Dion,Hip Hop,spotify,196
+Channa Mereya,14-11-2023,11-02-2004,M,Mumbai,Celine Dion,Electronic,spotify,201
+Tera Ban Jaunga,14-11-2023,31-03-1982,M,Delhi,Bruno Mars,Classical,spotify,171
+Tum Se Hi,14-11-2023,04-12-2003,F,Mumbai,Rihanna,Electronic,spotify,4
+Like a Rolling Stone,14-11-2023,24-10-1978,M,Ahmedabad,David Bowie,Pop,resso,17
+Like a Rolling Stone,14-11-2023,07-05-1976,M,Thane,David Bowie,Rock,resso,28
+Like a Rolling Stone,14-11-2023,26-11-1987,M,Indore,David Bowie,Hip Hop,resso,34
+Like a Rolling Stone,14-11-2023,26-06-1959,F,Indore,David Bowie,Rock,resso,87
+Like a Rolling Stone,14-11-2023,17-09-1966,M,Bangalore,David Bowie,Jazz,resso,92
+Like a Rolling Stone,14-11-2023,29-11-1986,F,Ahmedabad,David Bowie,Hip Hop,resso,131
+Like a Rolling Stone,14-11-2023,17-05-1965,F,Lucknow,David Bowie,Pop,resso,145
+Like a Rolling Stone,14-11-2023,01-08-1995,M,Kolkata,David Bowie,Jazz,resso,146
+Like a Rolling Stone,14-11-2023,02-04-1980,F,Hyderabad,David Bowie,Pop,resso,159
+Hotel California,14-11-2023,12-09-1998,F,Delhi,Taylor Swift,Classical,resso,11
+Hotel California,14-11-2023,11-08-1998,M,Kolkata,Taylor Swift,Classical,resso,40
+Hotel California,14-11-2023,11-02-1979,M,Pune,Taylor Swift,Electronic,resso,60
+Hotel California,14-11-2023,09-07-1999,M,Surat,Taylor Swift,Electronic,resso,79
+Hotel California,14-11-2023,30-05-1986,M,Bangalore,Taylor Swift,Classical,resso,117
+Hotel California,14-11-2023,06-10-2002,F,Jaipur,Taylor Swift,Rock,resso,119
+Hotel California,14-11-2023,26-05-2004,F,Hyderabad,Taylor Swift,Classical,resso,121
+Hotel California,14-11-2023,21-09-1970,M,Mumbai,Taylor Swift,Classical,resso,156
+Yesterday,14-11-2023,28-09-1969,F,Thane,Freddie Mercury,Classical,resso,46
+Yesterday,14-11-2023,29-11-1986,F,Jaipur,Freddie Mercury,Hip Hop,resso,50
+Yesterday,14-11-2023,07-05-1976,M,Ahmedabad,Freddie Mercury,Rock,resso,88
+Yesterday,14-11-2023,18-10-2004,F,Chennai,Freddie Mercury,Hip Hop,resso,97
+Yesterday,14-11-2023,29-01-1962,M,Kanpur,Freddie Mercury,Rock,resso,140
+Billie Jean,14-11-2023,21-09-1970,M,Indore,Billie Eilish,Classical,resso,21
+Billie Jean,14-11-2023,05-02-2000,M,Nagpur,Billie Eilish,Hip Hop,resso,48
+Billie Jean,14-11-2023,24-10-1978,M,Hyderabad,Billie Eilish,Electronic,resso,52
+Billie Jean,14-11-2023,02-07-1997,M,Lucknow,Billie Eilish,Classical,resso,109
+Purple Haze,14-11-2023,05-11-1995,F,Jaipur,Shawn Mendes,Jazz,resso,35
+Purple Haze,14-11-2023,01-08-1995,M,Mumbai,Shawn Mendes,Jazz,resso,39
+Purple Haze,14-11-2023,21-12-1958,F,Indore,Shawn Mendes,Electronic,resso,68
+Purple Haze,14-11-2023,21-11-1984,M,Indore,Shawn Mendes,Electronic,resso,98
+Purple Haze,14-11-2023,23-03-1960,M,Kolkata,Shawn Mendes,Rock,resso,102
+Purple Haze,14-11-2023,09-11-1969,F,Surat,Shawn Mendes,Hip Hop,resso,104
+Purple Haze,14-11-2023,24-09-2001,F,Mumbai,Shawn Mendes,Hip Hop,resso,123
+Purple Haze,14-11-2023,17-08-1973,M,Kolkata,Shawn Mendes,Electronic,resso,149
+Boys Dont Cry,14-11-2023,26-09-1994,M,Delhi,Lady Gaga,Classical,resso,69
+Boys Dont Cry,14-11-2023,19-01-1995,F,Kanpur,Lady Gaga,Hip Hop,resso,95
+Boys Dont Cry,14-11-2023,13-12-1989,M,Jaipur,Lady Gaga,Hip Hop,resso,111
+Boys Dont Cry,14-11-2023,30-05-1986,M,Hyderabad,Lady Gaga,Jazz,resso,158
+All You Need Is Love,14-11-2023,10-04-1980,F,Ahmedabad,Katy Perry,Classical,resso,82
+All You Need Is Love,14-11-2023,23-04-1989,M,Jaipur,Katy Perry,Electronic,resso,128
+All You Need Is Love,14-11-2023,16-04-1985,F,Kolkata,Katy Perry,Pop,resso,143
+All You Need Is Love,14-11-2023,16-04-1985,F,Jaipur,Katy Perry,Hip Hop,resso,144
+My Girl,14-11-2023,20-04-1981,F,Nagpur,Elvis Presley,Classical,resso,29
+My Girl,14-11-2023,08-06-2000,M,Surat,Elvis Presley,Pop,resso,33
+My Girl,14-11-2023,01-01-1980,F,Surat,Elvis Presley,Hip Hop,resso,108
+My Girl,14-11-2023,17-10-2002,F,Mumbai,Elvis Presley,Electronic,resso,118
+My Girl,14-11-2023,07-08-1961,F,Hyderabad,Elvis Presley,Hip Hop,resso,122
+My Girl,14-11-2023,05-05-1971,M,Jaipur,Elvis Presley,Rock,resso,130
+My Girl,14-11-2023,03-06-1969,F,Pune,Elvis Presley,Jazz,resso,138
+Stand by Me,15-11-2023,28-09-1976,F,Kolkata,Eminem,Electronic,resso,53
+Stand by Me,15-11-2023,07-03-1979,F,Lucknow,Eminem,Jazz,resso,99
+Stand by Me,15-11-2023,03-04-1976,F,Surat,Eminem,Hip Hop,resso,134
+Stand by Me,15-11-2023,23-02-2001,M,Indore,Eminem,Classical,resso,148
+Stand by Me,15-11-2023,14-10-1975,M,Delhi,Eminem,Hip Hop,resso,157
+Imagine,15-11-2023,17-08-1973,M,Nagpur,Taylor Swift,Pop,resso,24
+Imagine,15-11-2023,31-10-1990,M,Bangalore,Taylor Swift,Pop,resso,31
+Imagine,15-11-2023,10-12-1988,F,Ahmedabad,Taylor Swift,Rock,resso,160
+Stairway to Heaven,15-11-2023,04-01-2004,M,Lucknow,John Lennon,Classical,resso,36
+Stairway to Heaven,15-11-2023,17-10-2002,F,Lucknow,John Lennon,Hip Hop,resso,38
+Stairway to Heaven,15-11-2023,21-11-1980,M,Thane,John Lennon,Classical,resso,66
+Stairway to Heaven,15-11-2023,27-08-1970,M,Thane,John Lennon,Jazz,resso,75
+Stairway to Heaven,15-11-2023,17-02-1998,F,Kolkata,John Lennon,Rock,resso,105
+Stairway to Heaven,15-11-2023,05-11-1995,F,Mumbai,John Lennon,Rock,resso,136
+Stairway to Heaven,15-11-2023,08-06-2000,M,Lucknow,John Lennon,Pop,resso,150
+Brown Eyed Girl,15-11-2023,22-01-1985,M,Nagpur,Michael Jackson,Classical,resso,37
+Brown Eyed Girl,15-11-2023,16-01-1996,M,Surat,Michael Jackson,Jazz,resso,41
+Brown Eyed Girl,15-11-2023,24-05-2005,F,Hyderabad,Michael Jackson,Classical,resso,71
+Brown Eyed Girl,15-11-2023,12-09-1977,F,Delhi,Michael Jackson,Electronic,resso,76
+Brown Eyed Girl,15-11-2023,29-11-1986,F,Lucknow,Michael Jackson,Hip Hop,resso,86
+Brown Eyed Girl,15-11-2023,21-03-1998,M,Kanpur,Michael Jackson,Rock,resso,91
+Brown Eyed Girl,15-11-2023,02-07-1997,M,Kanpur,Michael Jackson,Pop,resso,129
+Brown Eyed Girl,15-11-2023,10-06-1962,F,Hyderabad,Michael Jackson,Pop,resso,154
+Shape of You,15-11-2023,09-07-1999,M,Kanpur,Rihanna,Rock,resso,6
+Shape of You,15-11-2023,27-06-1995,F,Kolkata,Rihanna,Jazz,resso,7
+Shape of You,15-11-2023,31-10-1990,M,Pune,Rihanna,Rock,resso,14
+Shape of You,15-11-2023,17-09-1966,M,Pune,Rihanna,Rock,resso,62
+Shape of You,15-11-2023,28-09-1976,F,Hyderabad,Rihanna,Classical,resso,80
+Shape of You,15-11-2023,20-07-1960,F,Nagpur,Rihanna,Jazz,resso,81
+Shape of You,15-11-2023,18-04-1971,F,Delhi,Rihanna,Classical,resso,90
+Shape of You,15-11-2023,20-07-1987,F,Surat,Rihanna,Classical,resso,103
+Bohemian Rhapsody,15-11-2023,24-10-1978,M,Delhi,Rihanna,Electronic,resso,23
+Bohemian Rhapsody,15-11-2023,28-04-1998,F,Hyderabad,Rihanna,Jazz,resso,32
+Bohemian Rhapsody,15-11-2023,07-08-1961,F,Ahmedabad,Rihanna,Classical,resso,47
+Bohemian Rhapsody,15-11-2023,09-11-1969,F,Nagpur,Rihanna,Electronic,resso,64
+Bohemian Rhapsody,15-11-2023,12-09-1977,F,Mumbai,Rihanna,Electronic,resso,77
+Bohemian Rhapsody,15-11-2023,08-06-2000,M,Surat,Rihanna,Rock,resso,83
+Bohemian Rhapsody,15-11-2023,21-09-1970,M,Ahmedabad,Rihanna,Electronic,resso,137
+Bohemian Rhapsody,15-11-2023,25-11-1980,M,Kanpur,Rihanna,Jazz,resso,139
+Let It Be,15-11-2023,18-07-1975,F,Jaipur,Justin Bieber,Hip Hop,resso,5
+Let It Be,15-11-2023,21-09-1970,M,Delhi,Justin Bieber,Electronic,resso,12
+Let It Be,15-11-2023,21-08-2003,M,Jaipur,Justin Bieber,Hip Hop,resso,15
+Let It Be,15-11-2023,28-05-1971,F,Mumbai,Justin Bieber,Classical,resso,27
+Let It Be,15-11-2023,26-11-1987,M,Bangalore,Justin Bieber,Jazz,resso,44
+Let It Be,15-11-2023,21-09-1970,M,Kolkata,Justin Bieber,Jazz,resso,67
+Let It Be,15-11-2023,08-06-2000,M,Lucknow,Justin Bieber,Electronic,resso,93
+Let It Be,15-11-2023,11-08-1998,M,Ahmedabad,Justin Bieber,Pop,resso,101
+Let It Be,15-11-2023,21-04-1982,M,Delhi,Justin Bieber,Jazz,resso,110
+Blackbird,15-11-2023,01-08-1995,M,Indore,Drake,Electronic,resso,20
+Blackbird,15-11-2023,11-08-1979,F,Chennai,Drake,Classical,resso,26
+Blackbird,15-11-2023,02-04-1980,F,Jaipur,Drake,Electronic,resso,42
+Blackbird,15-11-2023,01-01-2000,M,Kanpur,Drake,Classical,resso,57
+Blackbird,15-11-2023,17-08-1973,M,Lucknow,Drake,Electronic,resso,63
+Blackbird,15-11-2023,12-10-1991,M,Jaipur,Drake,Hip Hop,resso,89
+Blackbird,15-11-2023,07-10-1962,M,Mumbai,Drake,Rock,resso,115
+Blackbird,15-11-2023,30-04-1993,F,Indore,Drake,Classical,resso,124
+Blackbird,15-11-2023,28-11-1986,F,Hyderabad,Drake,Pop,resso,151
+Blackbird,15-11-2023,25-11-1980,M,Kolkata,Drake,Classical,resso,161
+Wonderwall,15-11-2023,03-06-1998,M,Surat,Frank Sinatra,Pop,resso,8
+Wonderwall,15-11-2023,11-08-1998,M,Nagpur,Frank Sinatra,Jazz,resso,30
+Wonderwall,15-11-2023,07-05-1976,M,Jaipur,Frank Sinatra,Electronic,resso,112
+Wonderwall,15-11-2023,05-02-2000,M,Nagpur,Frank Sinatra,Hip Hop,resso,142
+Sweet Child o Mine,15-11-2023,24-05-1992,F,Bangalore,Ariana Grande,Rock,resso,56
+Sweet Child o Mine,15-11-2023,14-10-1975,M,Mumbai,Ariana Grande,Rock,resso,58
+Sweet Child o Mine,15-11-2023,05-11-1995,F,Jaipur,Ariana Grande,Jazz,resso,72
+Sweet Child o Mine,15-11-2023,10-04-1980,F,Delhi,Ariana Grande,Jazz,resso,73
+Sweet Child o Mine,15-11-2023,30-05-1986,M,Thane,Ariana Grande,Pop,resso,74
+Sweet Child o Mine,15-11-2023,21-08-2003,M,Surat,Ariana Grande,Rock,resso,78
+Sweet Child o Mine,15-11-2023,06-10-2002,F,Kanpur,Ariana Grande,Hip Hop,resso,116
+Sweet Child o Mine,15-11-2023,19-04-1981,F,Chennai,Ariana Grande,Pop,resso,127
+Sweet Child o Mine,16-11-2023,17-08-1973,M,Delhi,Ariana Grande,Rock,resso,132
+Hey Jude,16-11-2023,28-09-1976,F,Bangalore,Ariana Grande,Jazz,resso,3
+Hey Jude,16-11-2023,10-12-1988,F,Pune,Ariana Grande,Rock,resso,25
+Hey Jude,16-11-2023,16-04-1985,F,Indore,Ariana Grande,Hip Hop,resso,45
+Hey Jude,16-11-2023,13-08-1974,M,Jaipur,Ariana Grande,Pop,resso,125
+Hey Jude,16-11-2023,28-11-1986,F,Mumbai,Ariana Grande,Classical,resso,155
+Smells Like Teen Spirit,16-11-2023,12-10-1991,M,Indore,Frank Sinatra,Jazz,resso,55
+Smells Like Teen Spirit,16-11-2023,24-05-1992,F,Chennai,Frank Sinatra,Jazz,resso,100
+Smells Like Teen Spirit,16-11-2023,20-04-1962,F,Chennai,Frank Sinatra,Pop,resso,113
+Every Breath You Take,16-11-2023,26-05-2004,F,Hyderabad,Bob Marley,Pop,resso,126
+Johnny B. Goode,16-11-2023,18-04-1971,F,Chennai,David Bowie,Electronic,resso,2
+Johnny B. Goode,16-11-2023,27-08-1970,M,Chennai,David Bowie,Electronic,resso,54
+Johnny B. Goode,16-11-2023,05-11-1961,F,Surat,David Bowie,Hip Hop,resso,59
+Johnny B. Goode,16-11-2023,23-03-1960,M,Delhi,David Bowie,Hip Hop,resso,61
+Johnny B. Goode,16-11-2023,21-11-1984,M,Pune,David Bowie,Classical,resso,65
+Johnny B. Goode,16-11-2023,13-02-1982,F,Thane,David Bowie,Classical,resso,84
+Johnny B. Goode,16-11-2023,26-06-1959,F,Nagpur,David Bowie,Jazz,resso,94
+Johnny B. Goode,16-11-2023,07-03-1979,F,Kolkata,David Bowie,Rock,resso,106
+Johnny B. Goode,16-11-2023,01-01-1980,F,Jaipur,David Bowie,Electronic,resso,107
+Johnny B. Goode,16-11-2023,17-09-1966,M,Indore,David Bowie,Classical,resso,133
+I Want to Hold Your Hand,16-11-2023,30-04-1993,F,Kanpur,Celine Dion,Jazz,resso,16
+I Want to Hold Your Hand,16-11-2023,29-11-1986,F,Delhi,Celine Dion,Classical,resso,18
+I Want to Hold Your Hand,16-11-2023,23-04-1989,M,Kolkata,Celine Dion,Classical,resso,22
+I Want to Hold Your Hand,16-11-2023,11-08-1979,F,Thane,Celine Dion,Jazz,resso,70
+I Want to Hold Your Hand,16-11-2023,29-11-1986,F,Surat,Celine Dion,Pop,resso,85
+I Want to Hold Your Hand,16-11-2023,05-05-1971,M,Lucknow,Celine Dion,Rock,resso,96
+I Want to Hold Your Hand,16-11-2023,10-06-1962,F,Mumbai,Celine Dion,Electronic,resso,141
+Despacito,16-11-2023,11-02-1979,M,Thane,Bob Marley,Jazz,resso,4
+Despacito,16-11-2023,10-06-1962,F,Thane,Bob Marley,Classical,resso,9
+Despacito,16-11-2023,28-11-1986,F,Chennai,Bob Marley,Electronic,resso,43
+Despacito,16-11-2023,09-11-1969,F,Chennai,Bob Marley,Classical,resso,49
+Despacito,16-11-2023,01-08-1995,M,Delhi,Bob Marley,Pop,resso,51
+Despacito,16-11-2023,03-01-1959,F,Thane,Bob Marley,Pop,resso,114
+Despacito,16-11-2023,21-11-1984,M,Pune,Bob Marley,Electronic,resso,153
+Thinking Out Loud,16-11-2023,11-08-1998,M,Hyderabad,Frank Sinatra,Classical,resso,19
+Thinking Out Loud,16-11-2023,12-01-1991,M,Nagpur,Frank Sinatra,Rock,resso,120
+Thinking Out Loud,16-11-2023,28-04-1984,F,Hyderabad,Frank Sinatra,Classical,resso,135
+Thinking Out Loud,16-11-2023,09-11-1969,F,Indore,Frank Sinatra,Rock,resso,147
+Thinking Out Loud,16-11-2023,20-04-1962,F,Ahmedabad,Frank Sinatra,Jazz,resso,152
+Bohemian Rhapsody,16-11-2023,09-02-2004,F,Lucknow,Prince,Pop,Youtube_Music,51
+Bohemian Rhapsody,16-11-2023,03-08-1959,M,Kanpur,Prince,Hip Hop,Youtube_Music,66
+Like a Rolling Stone,16-11-2023,05-07-1991,F,Nagpur,Freddie Mercury,Hip Hop,Youtube_Music,14
+Like a Rolling Stone,16-11-2023,05-11-1968,M,Nagpur,Freddie Mercury,Classical,Youtube_Music,42
+Like a Rolling Stone,16-11-2023,12-09-1968,M,Chennai,Freddie Mercury,Jazz,Youtube_Music,43
+Like a Rolling Stone,16-11-2023,21-04-1967,F,Thane,Freddie Mercury,Jazz,Youtube_Music,88
+Like a Rolling Stone,16-11-2023,17-08-1996,F,Kanpur,Freddie Mercury,Jazz,Youtube_Music,99
+Billie Jean,16-11-2023,28-12-1961,M,Mumbai,John Lennon,Hip Hop,Youtube_Music,22
+Billie Jean,16-11-2023,12-06-1997,F,Ahmedabad,John Lennon,Rock,Youtube_Music,107
+Smells Like Teen Spirit,16-11-2023,29-03-1962,F,Mumbai,Eminem,Jazz,Youtube_Music,18
+Smells Like Teen Spirit,16-11-2023,09-04-1969,F,Jaipur,Eminem,Jazz,Youtube_Music,33
+Smells Like Teen Spirit,16-11-2023,29-09-2003,F,Chennai,Eminem,Pop,Youtube_Music,57
+Smells Like Teen Spirit,16-11-2023,22-06-1973,M,Nagpur,Eminem,Hip Hop,Youtube_Music,59
+Smells Like Teen Spirit,16-11-2023,03-01-1997,F,Nagpur,Eminem,Classical,Youtube_Music,96
+Boys Dont Cry,16-11-2023,08-02-1960,M,Kanpur,Celine Dion,Rock,Youtube_Music,2
+Boys Dont Cry,16-11-2023,16-08-1965,F,Nagpur,Celine Dion,Electronic,Youtube_Music,6
+Boys Dont Cry,16-11-2023,04-05-1975,M,Ahmedabad,Celine Dion,Hip Hop,Youtube_Music,30
+Boys Dont Cry,16-11-2023,08-01-1962,F,Surat,Celine Dion,Jazz,Youtube_Music,78
+Boys Dont Cry,16-11-2023,01-09-1964,F,Ahmedabad,Celine Dion,Pop,Youtube_Music,86
+Boys Dont Cry,16-11-2023,08-01-1962,F,Thane,Celine Dion,Rock,Youtube_Music,90
+All You Need Is Love,16-11-2023,11-04-1981,F,Thane,Bob Marley,Electronic,Youtube_Music,28
+All You Need Is Love,16-11-2023,10-01-1971,F,Bangalore,Bob Marley,Classical,Youtube_Music,46
+All You Need Is Love,16-11-2023,01-09-1964,F,Delhi,Bob Marley,Rock,Youtube_Music,52
+All You Need Is Love,16-11-2023,22-06-1973,M,Nagpur,Bob Marley,Pop,Youtube_Music,63
+All You Need Is Love,16-11-2023,25-08-1959,M,Bangalore,Bob Marley,Electronic,Youtube_Music,85
+Brown Eyed Girl,16-11-2023,12-09-1988,F,Indore,Shawn Mendes,Electronic,Youtube_Music,29
+Brown Eyed Girl,16-11-2023,03-08-1959,M,Kolkata,Shawn Mendes,Hip Hop,Youtube_Music,37
+Brown Eyed Girl,16-11-2023,13-08-1971,M,Delhi,Shawn Mendes,Rock,Youtube_Music,49
+Brown Eyed Girl,16-11-2023,29-08-2004,F,Jaipur,Shawn Mendes,Pop,Youtube_Music,94
+Brown Eyed Girl,17-11-2023,10-04-1975,F,Bangalore,Shawn Mendes,Jazz,Youtube_Music,102
+Brown Eyed Girl,17-11-2023,08-11-1988,M,Chennai,Shawn Mendes,Classical,Youtube_Music,109
+My Girl,17-11-2023,20-05-2005,F,Ahmedabad,Shawn Mendes,Rock,Youtube_Music,10
+My Girl,17-11-2023,20-04-1971,F,Kolkata,Shawn Mendes,Electronic,Youtube_Music,16
+My Girl,17-11-2023,08-05-1997,F,Hyderabad,Shawn Mendes,Jazz,Youtube_Music,26
+My Girl,17-11-2023,30-04-1999,F,Ahmedabad,Shawn Mendes,Electronic,Youtube_Music,39
+My Girl,17-11-2023,16-01-1980,M,Mumbai,Shawn Mendes,Hip Hop,Youtube_Music,100
+My Girl,17-11-2023,03-11-2001,F,Bangalore,Shawn Mendes,Classical,Youtube_Music,106
+My Girl,17-11-2023,12-06-1997,F,Delhi,Shawn Mendes,Pop,Youtube_Music,110
+Stand by Me,17-11-2023,12-10-1988,F,Indore,Adele,Hip Hop,Youtube_Music,34
+Stand by Me,17-11-2023,12-09-1968,M,Bangalore,Adele,Jazz,Youtube_Music,87
+I Want to Hold Your Hand,17-11-2023,15-09-2002,F,Thane,Prince,Pop,Youtube_Music,7
+I Want to Hold Your Hand,17-11-2023,03-10-2004,F,Kanpur,Prince,Hip Hop,Youtube_Music,8
+I Want to Hold Your Hand,17-11-2023,24-10-1979,M,Kolkata,Prince,Hip Hop,Youtube_Music,13
+I Want to Hold Your Hand,17-11-2023,04-03-1978,M,Chennai,Prince,Electronic,Youtube_Music,25
+I Want to Hold Your Hand,17-11-2023,19-07-1976,M,Chennai,Prince,Rock,Youtube_Music,38
+I Want to Hold Your Hand,17-11-2023,05-10-1960,F,Jaipur,Prince,Jazz,Youtube_Music,45
+I Want to Hold Your Hand,17-11-2023,01-04-2005,F,Surat,Prince,Electronic,Youtube_Music,64
+I Want to Hold Your Hand,17-11-2023,11-08-1988,F,Kanpur,Prince,Hip Hop,Youtube_Music,84
+I Want to Hold Your Hand,17-11-2023,13-07-1964,M,Hyderabad,Prince,Jazz,Youtube_Music,89
+I Want to Hold Your Hand,17-11-2023,16-08-1989,M,Ahmedabad,Prince,Hip Hop,Youtube_Music,98
+Despacito,17-11-2023,28-05-1978,F,Pune,Bruno Mars,Classical,Youtube_Music,4
+Despacito,17-11-2023,15-11-1979,M,Thane,Bruno Mars,Rock,Youtube_Music,32
+Despacito,17-11-2023,09-04-1969,F,Surat,Bruno Mars,Pop,Youtube_Music,36
+Despacito,17-11-2023,09-04-1969,F,Thane,Bruno Mars,Rock,Youtube_Music,47
+Despacito,17-11-2023,22-06-1973,M,Nagpur,Bruno Mars,Pop,Youtube_Music,62
+Despacito,17-11-2023,22-03-2003,M,Ahmedabad,Bruno Mars,Electronic,Youtube_Music,82
+Despacito,17-11-2023,15-11-1979,M,Ahmedabad,Bruno Mars,Jazz,Youtube_Music,93
+Despacito,17-11-2023,09-02-2004,F,Ahmedabad,Bruno Mars,Electronic,Youtube_Music,101
+Thinking Out Loud,17-11-2023,03-04-1987,M,Surat,Celine Dion,Jazz,Youtube_Music,5
+Thinking Out Loud,17-11-2023,27-02-1960,F,Chennai,Celine Dion,Jazz,Youtube_Music,11
+Thinking Out Loud,17-11-2023,12-01-1999,F,Ahmedabad,Celine Dion,Jazz,Youtube_Music,20
+Thinking Out Loud,17-11-2023,06-07-1970,F,Hyderabad,Celine Dion,Jazz,Youtube_Music,21
+Thinking Out Loud,17-11-2023,07-02-1980,M,Lucknow,Celine Dion,Rock,Youtube_Music,23
+Thinking Out Loud,17-11-2023,09-04-1969,F,Lucknow,Celine Dion,Electronic,Youtube_Music,53
+Thinking Out Loud,17-11-2023,13-04-1962,M,Nagpur,Celine Dion,Electronic,Youtube_Music,71
+Thinking Out Loud,17-11-2023,20-03-2000,M,Kanpur,Celine Dion,Electronic,Youtube_Music,74
+Thinking Out Loud,17-11-2023,27-02-1960,F,Pune,Celine Dion,Pop,Youtube_Music,75
+Thinking Out Loud,17-11-2023,13-08-1971,M,Kanpur,Celine Dion,Rock,Youtube_Music,108
+Imagine,17-11-2023,17-08-1996,F,Ahmedabad,Shawn Mendes,Classical,Youtube_Music,61
+Imagine,17-11-2023,06-07-1989,M,Kolkata,Shawn Mendes,Electronic,Youtube_Music,95
+Hotel California,17-11-2023,03-05-1976,F,Jaipur,Elvis Presley,Classical,Youtube_Music,9
+Hotel California,17-11-2023,12-09-1968,M,Indore,Elvis Presley,Jazz,Youtube_Music,35
+Yesterday,17-11-2023,03-10-2004,F,Jaipur,Adele,Hip Hop,Youtube_Music,27
+Yesterday,17-11-2023,01-10-1985,F,Ahmedabad,Adele,Jazz,Youtube_Music,48
+Yesterday,17-11-2023,24-03-1972,M,Thane,Adele,Hip Hop,Youtube_Music,92
+Yesterday,17-11-2023,07-08-1987,M,Ahmedabad,Adele,Jazz,Youtube_Music,97
+Let It Be,17-11-2023,03-10-2004,F,Mumbai,Michael Jackson,Pop,Youtube_Music,55
+Let It Be,17-11-2023,11-06-1977,F,Nagpur,Michael Jackson,Jazz,Youtube_Music,67
+Let It Be,17-11-2023,28-12-1961,M,Jaipur,Michael Jackson,Pop,Youtube_Music,69
+Let It Be,17-11-2023,03-05-1976,F,Jaipur,Michael Jackson,Classical,Youtube_Music,80
+Let It Be,17-11-2023,12-10-1988,F,Thane,Michael Jackson,Rock,Youtube_Music,104
+Stairway to Heaven,17-11-2023,03-01-1997,F,Hyderabad,David Bowie,Rock,Youtube_Music,3
+Stairway to Heaven,17-11-2023,29-09-2003,F,Nagpur,David Bowie,Electronic,Youtube_Music,41
+Stairway to Heaven,17-11-2023,03-10-2004,F,Chennai,David Bowie,Pop,Youtube_Music,103
+Wonderwall,17-11-2023,17-04-1995,F,Indore,Whitney Houston,Hip Hop,Youtube_Music,73
+Wonderwall,18-11-2023,16-08-1989,M,Lucknow,Whitney Houston,Rock,Youtube_Music,105
+Sweet Child o Mine,18-11-2023,03-11-2001,F,Delhi,Bob Marley,Jazz,Youtube_Music,44
+Sweet Child o Mine,18-11-2023,30-04-1999,F,Hyderabad,Bob Marley,Pop,Youtube_Music,56
+Sweet Child o Mine,18-11-2023,30-04-1999,F,Mumbai,Bob Marley,Classical,Youtube_Music,65
+Every Breath You Take,18-11-2023,07-10-1995,F,Surat,Lady Gaga,Rock,Youtube_Music,19
+Every Breath You Take,18-11-2023,11-08-1988,F,Mumbai,Lady Gaga,Rock,Youtube_Music,60
+Every Breath You Take,18-11-2023,18-03-2004,M,Nagpur,Lady Gaga,Rock,Youtube_Music,77
+Purple Haze,18-11-2023,11-06-1977,F,Pune,Justin Bieber,Classical,Youtube_Music,15
+Purple Haze,18-11-2023,19-05-1984,F,Delhi,Justin Bieber,Pop,Youtube_Music,24
+Purple Haze,18-11-2023,18-05-1982,M,Bangalore,Justin Bieber,Jazz,Youtube_Music,58
+Purple Haze,18-11-2023,24-06-1975,F,Hyderabad,Justin Bieber,Jazz,Youtube_Music,76
+Purple Haze,18-11-2023,03-08-1959,M,Indore,Justin Bieber,Classical,Youtube_Music,81
+Blackbird,18-11-2023,12-09-1988,F,Lucknow,Ariana Grande,Pop,Youtube_Music,50
+Blackbird,18-11-2023,15-06-1960,M,Indore,Ariana Grande,Hip Hop,Youtube_Music,70
+Hey Jude,18-11-2023,03-05-1976,F,Surat,Rihanna,Pop,Youtube_Music,17
+Hey Jude,18-11-2023,25-08-1959,M,Surat,Rihanna,Classical,Youtube_Music,40
+Hey Jude,18-11-2023,06-04-1993,M,Mumbai,Rihanna,Electronic,Youtube_Music,79
+Hey Jude,18-11-2023,13-04-1962,M,Chennai,Rihanna,Pop,Youtube_Music,91
+Johnny B. Goode,18-11-2023,01-09-1964,F,Nagpur,Elvis Presley,Classical,Youtube_Music,12
+Johnny B. Goode,18-11-2023,22-03-2003,M,Kolkata,Elvis Presley,Classical,Youtube_Music,54
+Johnny B. Goode,18-11-2023,03-04-1987,M,Jaipur,Elvis Presley,Pop,Youtube_Music,68
+Johnny B. Goode,18-11-2023,03-11-2001,F,Mumbai,Elvis Presley,Jazz,Youtube_Music,72
+Johnny B. Goode,18-11-2023,11-06-1977,F,Jaipur,Elvis Presley,Electronic,Youtube_Music,83
+Shape of You,18-11-2023,24-03-1972,M,Nagpur,Celine Dion,Rock,Youtube_Music,31
+Sweet Child o Mine,18-11-2023,15-12-1979,F,Jaipur,Billie Eilish,Rock,apple_music,13
+Sweet Child o Mine,18-11-2023,02-02-1983,M,Hyderabad,Billie Eilish,Pop,apple_music,83
+Sweet Child o Mine,18-11-2023,14-01-1994,M,Kolkata,Billie Eilish,Jazz,apple_music,90
+Sweet Child o Mine,18-11-2023,13-12-1957,M,Pune,Billie Eilish,Jazz,apple_music,103
+Sweet Child o Mine,18-11-2023,07-05-1993,M,Jaipur,Billie Eilish,Pop,apple_music,105
+Sweet Child o Mine,18-11-2023,16-04-1981,M,Lucknow,Billie Eilish,Rock,apple_music,113
+Sweet Child o Mine,18-11-2023,05-02-1985,F,Hyderabad,Billie Eilish,Rock,apple_music,122
+Sweet Child o Mine,18-11-2023,17-06-1982,F,Mumbai,Billie Eilish,Rock,apple_music,134
+Sweet Child o Mine,18-11-2023,01-04-1997,M,Nagpur,Billie Eilish,Rock,apple_music,154
+Sweet Child o Mine,18-11-2023,23-01-1997,F,Indore,Billie Eilish,Classical,apple_music,155
+Hey Jude,18-11-2023,02-12-2004,F,Nagpur,Bruno Mars,Jazz,apple_music,32
+Hey Jude,18-11-2023,26-10-1965,M,Mumbai,Bruno Mars,Hip Hop,apple_music,35
+Hey Jude,18-11-2023,13-01-2001,F,Nagpur,Bruno Mars,Pop,apple_music,69
+Hey Jude,18-11-2023,01-10-2000,F,Mumbai,Bruno Mars,Jazz,apple_music,120
+Hey Jude,18-11-2023,09-04-1973,M,Thane,Bruno Mars,Rock,apple_music,166
+My Girl,18-11-2023,02-05-1969,F,Nagpur,Whitney Houston,Hip Hop,apple_music,17
+My Girl,18-11-2023,20-05-1958,F,Delhi,Whitney Houston,Rock,apple_music,27
+My Girl,18-11-2023,22-08-2005,M,Mumbai,Whitney Houston,Classical,apple_music,48
+My Girl,18-11-2023,08-10-1970,M,Surat,Whitney Houston,Hip Hop,apple_music,76
+My Girl,18-11-2023,25-03-2000,F,Indore,Whitney Houston,Rock,apple_music,161
+My Girl,18-11-2023,19-06-2001,F,Chennai,Whitney Houston,Rock,apple_music,163
+I Want to Hold Your Hand,18-11-2023,19-09-1992,F,Nagpur,Bob Marley,Electronic,apple_music,33
+I Want to Hold Your Hand,18-11-2023,04-04-1988,F,Delhi,Bob Marley,Electronic,apple_music,43
+I Want to Hold Your Hand,18-11-2023,05-05-1995,F,Bangalore,Bob Marley,Rock,apple_music,72
+I Want to Hold Your Hand,18-11-2023,08-08-1962,F,Ahmedabad,Bob Marley,Electronic,apple_music,80
+I Want to Hold Your Hand,18-11-2023,22-01-2000,M,Jaipur,Bob Marley,Classical,apple_music,108
+I Want to Hold Your Hand,18-11-2023,13-05-1967,F,Ahmedabad,Bob Marley,Rock,apple_music,131
+I Want to Hold Your Hand,18-11-2023,16-06-1996,F,Thane,Bob Marley,Electronic,apple_music,164
+Shape of You,18-11-2023,16-08-1982,M,Thane,Whitney Houston,Classical,apple_music,2
+Shape of You,18-11-2023,02-08-1986,M,Bangalore,Whitney Houston,Pop,apple_music,31
+Thinking Out Loud,18-11-2023,03-07-2000,M,Bangalore,Prince,Jazz,apple_music,46
+Thinking Out Loud,18-11-2023,03-02-1992,M,Chennai,Prince,Jazz,apple_music,60
+Thinking Out Loud,18-11-2023,03-09-1971,F,Pune,Prince,Jazz,apple_music,115
+Thinking Out Loud,18-11-2023,08-12-1957,F,Bangalore,Prince,Pop,apple_music,118
+Thinking Out Loud,18-11-2023,17-12-2001,M,Indore,Prince,Hip Hop,apple_music,121
+Thinking Out Loud,18-11-2023,18-11-1970,M,Thane,Prince,Jazz,apple_music,156
+Imagine,18-11-2023,02-02-1984,M,Kolkata,John Lennon,Classical,apple_music,149
+Purple Haze,18-11-2023,02-08-2000,F,Indore,Freddie Mercury,Classical,apple_music,18
+Purple Haze,18-11-2023,07-08-1965,F,Bangalore,Freddie Mercury,Hip Hop,apple_music,36
+Purple Haze,18-11-2023,18-02-1976,M,Pune,Freddie Mercury,Classical,apple_music,58
+Purple Haze,19-11-2023,02-12-2004,F,Thane,Freddie Mercury,Rock,apple_music,95
+Purple Haze,19-11-2023,08-06-1999,M,Lucknow,Freddie Mercury,Rock,apple_music,102
+Purple Haze,19-11-2023,27-05-1979,F,Lucknow,Freddie Mercury,Jazz,apple_music,110
+Purple Haze,19-11-2023,21-10-1999,F,Jaipur,Freddie Mercury,Hip Hop,apple_music,133
+Purple Haze,19-11-2023,04-11-1976,F,Hyderabad,Freddie Mercury,Jazz,apple_music,143
+Purple Haze,19-11-2023,12-11-1976,M,Pune,Freddie Mercury,Rock,apple_music,144
+Purple Haze,19-11-2023,07-07-2004,F,Delhi,Freddie Mercury,Electronic,apple_music,173
+Wonderwall,19-11-2023,13-12-1957,M,Bangalore,Freddie Mercury,Rock,apple_music,6
+Wonderwall,19-11-2023,21-08-1991,F,Chennai,Freddie Mercury,Hip Hop,apple_music,65
+Wonderwall,19-11-2023,03-02-1990,M,Chennai,Freddie Mercury,Electronic,apple_music,79
+Wonderwall,19-11-2023,09-05-2000,M,Nagpur,Freddie Mercury,Electronic,apple_music,87
+Wonderwall,19-11-2023,15-02-1999,M,Pune,Freddie Mercury,Hip Hop,apple_music,92
+Wonderwall,19-11-2023,16-05-1969,M,Bangalore,Freddie Mercury,Hip Hop,apple_music,170
+Smells Like Teen Spirit,19-11-2023,12-12-2004,M,Kanpur,Drake,Jazz,apple_music,3
+Smells Like Teen Spirit,19-11-2023,08-12-1986,F,Indore,Drake,Classical,apple_music,4
+Smells Like Teen Spirit,19-11-2023,22-12-1976,F,Pune,Drake,Rock,apple_music,5
+Smells Like Teen Spirit,19-11-2023,03-09-1965,M,Chennai,Drake,Classical,apple_music,28
+Smells Like Teen Spirit,19-11-2023,08-11-1975,M,Surat,Drake,Classical,apple_music,51
+Smells Like Teen Spirit,19-11-2023,19-04-1970,M,Thane,Drake,Rock,apple_music,55
+Smells Like Teen Spirit,19-11-2023,29-02-1964,M,Hyderabad,Drake,Electronic,apple_music,126
+Smells Like Teen Spirit,19-11-2023,24-04-2001,M,Thane,Drake,Jazz,apple_music,140
+Smells Like Teen Spirit,19-11-2023,13-05-1961,F,Ahmedabad,Drake,Rock,apple_music,167
+Smells Like Teen Spirit,19-11-2023,14-12-1989,F,Kolkata,Drake,Rock,apple_music,169
+Boys Dont Cry,19-11-2023,21-02-1970,F,Delhi,Ed Sheeran,Pop,apple_music,14
+Boys Dont Cry,19-11-2023,13-05-1967,F,Pune,Ed Sheeran,Classical,apple_music,23
+Boys Dont Cry,19-11-2023,19-02-1981,M,Jaipur,Ed Sheeran,Jazz,apple_music,54
+Boys Dont Cry,19-11-2023,01-10-1974,F,Kanpur,Ed Sheeran,Classical,apple_music,61
+Boys Dont Cry,19-11-2023,09-01-1985,M,Lucknow,Ed Sheeran,Rock,apple_music,101
+Boys Dont Cry,19-11-2023,02-02-1977,M,Lucknow,Ed Sheeran,Hip Hop,apple_music,106
+Boys Dont Cry,19-11-2023,14-04-1961,F,Kanpur,Ed Sheeran,Classical,apple_music,107
+Boys Dont Cry,19-11-2023,21-12-1959,M,Pune,Ed Sheeran,Electronic,apple_music,114
+Boys Dont Cry,19-11-2023,25-03-1965,F,Indore,Ed Sheeran,Jazz,apple_music,130
+Boys Dont Cry,19-11-2023,03-01-2005,M,Nagpur,Ed Sheeran,Jazz,apple_music,158
+All You Need Is Love,19-11-2023,09-03-1991,M,Chennai,Beyonce,Pop,apple_music,26
+All You Need Is Love,19-11-2023,01-10-2005,F,Mumbai,Beyonce,Hip Hop,apple_music,53
+All You Need Is Love,19-11-2023,09-01-1985,M,Ahmedabad,Beyonce,Electronic,apple_music,57
+All You Need Is Love,19-11-2023,07-04-1984,M,Indore,Beyonce,Hip Hop,apple_music,64
+All You Need Is Love,19-11-2023,02-12-1992,F,Pune,Beyonce,Electronic,apple_music,71
+All You Need Is Love,19-11-2023,29-08-1978,F,Chennai,Beyonce,Rock,apple_music,97
+All You Need Is Love,19-11-2023,29-12-1976,M,Nagpur,Beyonce,Hip Hop,apple_music,139
+All You Need Is Love,19-11-2023,22-03-1965,M,Lucknow,Beyonce,Rock,apple_music,171
+Brown Eyed Girl,19-11-2023,17-02-1971,M,Delhi,John Lennon,Electronic,apple_music,11
+Brown Eyed Girl,19-11-2023,12-05-1985,M,Pune,John Lennon,Rock,apple_music,38
+Brown Eyed Girl,19-11-2023,11-02-1959,M,Surat,John Lennon,Pop,apple_music,45
+Brown Eyed Girl,19-11-2023,26-12-1968,F,Chennai,John Lennon,Pop,apple_music,70
+Brown Eyed Girl,19-11-2023,01-04-1997,M,Surat,John Lennon,Jazz,apple_music,81
+Brown Eyed Girl,19-11-2023,11-04-1997,M,Surat,John Lennon,Rock,apple_music,82
+Brown Eyed Girl,19-11-2023,06-09-1992,F,Bangalore,John Lennon,Rock,apple_music,109
+Johnny B. Goode,19-11-2023,23-11-1958,F,Kanpur,Lady Gaga,Rock,apple_music,7
+Johnny B. Goode,19-11-2023,09-06-1997,F,Chennai,Lady Gaga,Electronic,apple_music,9
+Johnny B. Goode,19-11-2023,09-07-1963,F,Jaipur,Lady Gaga,Classical,apple_music,24
+Johnny B. Goode,19-11-2023,30-10-1977,F,Ahmedabad,Lady Gaga,Classical,apple_music,30
+Johnny B. Goode,19-11-2023,24-08-1983,M,Pune,Lady Gaga,Rock,apple_music,37
+Johnny B. Goode,19-11-2023,09-07-1996,M,Kolkata,Lady Gaga,Pop,apple_music,42
+Johnny B. Goode,19-11-2023,29-06-1990,M,Ahmedabad,Lady Gaga,Electronic,apple_music,74
+Johnny B. Goode,19-11-2023,29-03-1961,M,Mumbai,Lady Gaga,Electronic,apple_music,104
+Johnny B. Goode,19-11-2023,17-08-1964,F,Hyderabad,Lady Gaga,Hip Hop,apple_music,127
+Johnny B. Goode,19-11-2023,19-02-1981,M,Mumbai,Lady Gaga,Pop,apple_music,128
+Johnny B. Goode,19-11-2023,24-06-1960,M,Thane,Lady Gaga,Pop,apple_music,135
+Johnny B. Goode,19-11-2023,28-10-1984,M,Kolkata,Lady Gaga,Rock,apple_music,141
+Johnny B. Goode,19-11-2023,25-10-1990,M,Ahmedabad,Lady Gaga,Hip Hop,apple_music,152
+Despacito,19-11-2023,02-09-1963,M,Pune,Lady Gaga,Rock,apple_music,10
+Despacito,19-11-2023,21-06-1966,F,Hyderabad,Lady Gaga,Jazz,apple_music,34
+Despacito,19-11-2023,25-12-1966,F,Pune,Lady Gaga,Classical,apple_music,50
+Despacito,19-11-2023,09-06-1983,F,Bangalore,Lady Gaga,Pop,apple_music,91
+Despacito,19-11-2023,31-01-1983,M,Hyderabad,Lady Gaga,Rock,apple_music,94
+Despacito,19-11-2023,08-06-2001,M,Ahmedabad,Lady Gaga,Electronic,apple_music,112
+Despacito,20-11-2023,16-05-1991,F,Indore,Lady Gaga,Electronic,apple_music,123
+Despacito,20-11-2023,01-10-2005,F,Bangalore,Lady Gaga,Pop,apple_music,160
+Despacito,20-11-2023,17-10-1967,M,Surat,Lady Gaga,Electronic,apple_music,162
+Bohemian Rhapsody,20-11-2023,23-03-1978,F,Hyderabad,Frank Sinatra,Pop,apple_music,20
+Bohemian Rhapsody,20-11-2023,15-07-1986,F,Lucknow,Frank Sinatra,Electronic,apple_music,41
+Bohemian Rhapsody,20-11-2023,06-12-1989,M,Surat,Frank Sinatra,Hip Hop,apple_music,47
+Bohemian Rhapsody,20-11-2023,08-02-1971,F,Delhi,Frank Sinatra,Hip Hop,apple_music,62
+Bohemian Rhapsody,20-11-2023,05-12-1982,M,Surat,Frank Sinatra,Hip Hop,apple_music,67
+Bohemian Rhapsody,20-11-2023,17-10-1990,M,Delhi,Frank Sinatra,Hip Hop,apple_music,68
+Bohemian Rhapsody,20-11-2023,19-09-1998,M,Mumbai,Frank Sinatra,Rock,apple_music,98
+Bohemian Rhapsody,20-11-2023,27-05-1986,F,Chennai,Frank Sinatra,Hip Hop,apple_music,116
+Bohemian Rhapsody,20-11-2023,20-05-1958,F,Indore,Frank Sinatra,Electronic,apple_music,132
+Bohemian Rhapsody,20-11-2023,20-12-1965,M,Nagpur,Frank Sinatra,Jazz,apple_music,147
+Bohemian Rhapsody,20-11-2023,03-12-1997,M,Ahmedabad,Frank Sinatra,Jazz,apple_music,150
+Like a Rolling Stone,20-11-2023,05-05-1993,F,Kolkata,Whitney Houston,Pop,apple_music,22
+Like a Rolling Stone,20-11-2023,13-01-1959,M,Thane,Whitney Houston,Electronic,apple_music,136
+Like a Rolling Stone,20-11-2023,24-04-1998,F,Ahmedabad,Whitney Houston,Jazz,apple_music,138
+Like a Rolling Stone,20-11-2023,22-06-1995,F,Jaipur,Whitney Houston,Rock,apple_music,142
+Hotel California,20-11-2023,15-12-1979,F,Nagpur,Mariah Carey,Hip Hop,apple_music,15
+Hotel California,20-11-2023,30-01-1968,M,Ahmedabad,Mariah Carey,Electronic,apple_music,100
+Hotel California,20-11-2023,16-10-1969,F,Mumbai,Mariah Carey,Jazz,apple_music,119
+Hotel California,20-11-2023,16-05-1969,M,Pune,Mariah Carey,Electronic,apple_music,137
+Yesterday,20-11-2023,09-10-1997,M,Hyderabad,Shawn Mendes,Classical,apple_music,78
+Yesterday,20-11-2023,19-01-1969,M,Delhi,Shawn Mendes,Hip Hop,apple_music,151
+Yesterday,20-11-2023,09-01-2000,M,Bangalore,Shawn Mendes,Pop,apple_music,175
+Billie Jean,20-11-2023,03-12-1997,M,Nagpur,Justin Bieber,Jazz,apple_music,16
+Billie Jean,20-11-2023,02-05-1994,M,Chennai,Justin Bieber,Pop,apple_music,39
+Billie Jean,20-11-2023,26-01-1966,M,Pune,Justin Bieber,Hip Hop,apple_music,85
+Billie Jean,20-11-2023,29-07-1966,F,Kolkata,Justin Bieber,Classical,apple_music,89
+Billie Jean,20-11-2023,25-03-2000,F,Thane,Justin Bieber,Electronic,apple_music,111
+Billie Jean,20-11-2023,06-10-1993,F,Kolkata,Justin Bieber,Pop,apple_music,146
+Billie Jean,20-11-2023,29-11-1974,M,Kanpur,Justin Bieber,Rock,apple_music,159
+Let It Be,20-11-2023,21-02-1969,M,Indore,Celine Dion,Rock,apple_music,8
+Let It Be,20-11-2023,24-01-1958,M,Jaipur,Celine Dion,Electronic,apple_music,12
+Let It Be,20-11-2023,19-02-1979,M,Chennai,Celine Dion,Rock,apple_music,21
+Let It Be,20-11-2023,25-12-1996,M,Lucknow,Celine Dion,Jazz,apple_music,29
+Let It Be,20-11-2023,05-07-1976,M,Pune,Celine Dion,Electronic,apple_music,44
+Let It Be,20-11-2023,04-11-1976,F,Delhi,Celine Dion,Jazz,apple_music,99
+Let It Be,20-11-2023,10-11-1989,F,Chennai,Celine Dion,Pop,apple_music,124
+Let It Be,20-11-2023,07-08-1982,F,Pune,Celine Dion,Electronic,apple_music,172
+Stairway to Heaven,20-11-2023,22-04-1987,M,Nagpur,Rihanna,Pop,apple_music,40
+Stairway to Heaven,20-11-2023,24-04-1963,F,Mumbai,Rihanna,Pop,apple_music,66
+Stairway to Heaven,20-11-2023,20-04-1999,M,Bangalore,Rihanna,Classical,apple_music,84
+Stairway to Heaven,20-11-2023,09-03-1991,M,Chennai,Rihanna,Hip Hop,apple_music,86
+Stairway to Heaven,20-11-2023,07-02-1970,F,Kolkata,Rihanna,Jazz,apple_music,88
+Stairway to Heaven,20-11-2023,18-08-1987,M,Kolkata,Rihanna,Classical,apple_music,148
+Blackbird,20-11-2023,15-02-1984,F,Mumbai,Elvis Presley,Classical,apple_music,19
+Blackbird,20-11-2023,24-07-2005,M,Hyderabad,Elvis Presley,Pop,apple_music,25
+Blackbird,20-11-2023,12-09-1987,F,Kolkata,Elvis Presley,Pop,apple_music,49
+Blackbird,20-11-2023,09-02-1966,F,Mumbai,Elvis Presley,Hip Hop,apple_music,52
+Blackbird,20-11-2023,11-10-1992,M,Ahmedabad,Elvis Presley,Hip Hop,apple_music,56
+Blackbird,20-11-2023,01-07-1969,M,Nagpur,Elvis Presley,Electronic,apple_music,59
+Blackbird,20-11-2023,16-12-1989,F,Lucknow,Elvis Presley,Pop,apple_music,73
+Blackbird,20-11-2023,26-07-1964,F,Pune,Elvis Presley,Pop,apple_music,77
+Blackbird,20-11-2023,24-05-1986,F,Surat,Elvis Presley,Electronic,apple_music,93
+Blackbird,20-11-2023,27-05-1975,M,Kolkata,Elvis Presley,Classical,apple_music,96
+Blackbird,20-11-2023,01-09-2002,F,Chennai,Elvis Presley,Jazz,apple_music,117
+Blackbird,20-11-2023,05-01-1996,F,Mumbai,Elvis Presley,Classical,apple_music,129
+Blackbird,20-11-2023,21-02-1961,F,Mumbai,Elvis Presley,Classical,apple_music,168
+Stand by Me,20-11-2023,11-11-1997,F,Lucknow,Ariana Grande,Rock,apple_music,125
+Stand by Me,20-11-2023,05-06-1992,F,Indore,Ariana Grande,Jazz,apple_music,145
+Stand by Me,20-11-2023,12-05-1960,M,Indore,Ariana Grande,Pop,apple_music,153
+Stand by Me,20-11-2023,27-10-1962,M,Surat,Ariana Grande,Classical,apple_music,157
+Stand by Me,20-11-2023,31-01-1983,M,Nagpur,Ariana Grande,Electronic,apple_music,174
+Every Breath You Take,20-11-2023,06-09-1992,F,Delhi,Adele,Classical,apple_music,63
+Every Breath You Take,20-11-2023,19-01-2000,M,Chennai,Adele,Hip Hop,apple_music,75
+Every Breath You Take,20-11-2023,19-06-1974,M,Lucknow,Adele,Jazz,apple_music,165
+,,,,,,Hip Hop,,
+,,,,,,Electronic,,
+,,,,,,Classical,,
+,,,,,,Pop,,
+,,,,,,Classical,,
+,,,,,,Electronic,,
+,,,,,,Jazz,,
+,,,,,,Jazz,,
+,,,,,,Hip Hop,,
+,,,,,,Electronic,,
